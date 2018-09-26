@@ -11,7 +11,7 @@
 # partner's email:
 #
 
-from ps10pr3 import *
+from Connect4 import *
 import random
 
 class AIPlayer(Player):
