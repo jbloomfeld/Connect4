@@ -11,7 +11,7 @@
 # partner's email: N/A
 #
 
-from Board import Board
+from BoardClass import Board
 
 # Write your Player class below.
 
