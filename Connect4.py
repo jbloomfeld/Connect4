@@ -10,8 +10,8 @@
 # without a partner.
 #
 
-from ps10pr1 import Board
-from ps10pr2 import Player
+from BoardClass import Board
+from PlayerClass import Player
 import random
     
 def connect_four(player1, player2):
